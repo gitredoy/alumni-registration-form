@@ -1,0 +1,141 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nopadding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+
+
+/*CONTACT DESIGN START*/
+
+.contact {
+    background-color: #23BA9C;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+}
+
+.contact_A {
+    margin: 0px 100px 0px 100px;
+}
+
+.con_text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.igm{
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+
+.uni {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.uni > h4 {
+    padding: 15px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.uni > p{
+    padding-bottom: 25px;
+    font-weight: bold;
+}
+
+
+.form-control {
+    background-color: #53CBB3;
+}
+
+.form-control:hover {
+    background-color: white;
+}
+
+.add_siz {
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+/*CONTACT DESIGN END*/
+
+.member {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.member > h4 {
+    padding: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.divInside {
+
+    display: none;
+    color: black;
+    background-color: white;
+
+
+
+}
+
+#divOutside {
+    width: 100%;
+    height: auto;
+    background-color: lightslategrey;
+    padding: 5px;
+
+
+
+}
+
+.Show {
+    backface-visibility: visible;
+    border-radius: 29px;
+    background-color: lightslategrey;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+.payment1{
+    border-bottom: 5px solid gray;
+    background-color: gainsboro;
+}
+
+.pbc{
+    background-color: gainsboro;
+     border: 1px solid currentColor;
+}
+
+.payment2{
+    background-color: gainsboro;
+}
+
+.fs{
+    font-size: 20px;
+}
+
+.but{
+    background-color: aquamarine;
+    margin: 0 auto;
+    display: block;
+    margin-top: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.but:hover{
+    background-color: darkcyan;
+}
